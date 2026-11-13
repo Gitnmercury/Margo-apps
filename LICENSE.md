@@ -1,4 +1,4 @@
-# Licence de rM Desktop
+# Licence de Margo
 
 **Libre d'utilisation, sous réserve.**
 
@@ -8,7 +8,7 @@ Siège : 200 rue de la Croix Nivert, 75015 Paris
 Contact : apps@ohtna.fr
 Demandes de licence : licence@ohtna.fr
 
-Le logiciel rM Desktop (code source, exécutables, interface, textes et éléments graphiques,
+Le logiciel Margo (code source, exécutables, interface, textes et éléments graphiques,
 ci-après « le Logiciel ») est la propriété d'Anthony BELKACEM EI (ci-après « le Propriétaire »).
 
 ## 1. Droits accordés

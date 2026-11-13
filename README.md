@@ -1,9 +1,9 @@
-# rM Desktop
+# Margo
 
 Gérez la bibliothèque de votre tablette reMarkable 1 ou 2 depuis Windows ou Linux, par USB.
 Aucun compte, aucun cloud, aucune télémétrie : tout reste sur votre PC et votre tablette.
 
-**[Télécharger la dernière version](https://github.com/Gitnmercury/rm-desktop-download/releases/latest)**
+**[Télécharger la dernière version](https://github.com/Gitnmercury/Margo-apps/releases/latest)**
 
 Projet indépendant, ni affilié, ni approuvé, ni sponsorisé par reMarkable AS.
 
@@ -12,7 +12,7 @@ Projet indépendant, ni affilié, ni approuvé, ni sponsorisé par reMarkable AS
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="captures/03-bibliotheque-sombre.png">
-    <img src="captures/03-bibliotheque-clair.png" alt="Bibliothèque d'une reMarkable 2 dans rM Desktop : dossiers, recherche, import, export et aperçu" width="860">
+    <img src="captures/03-bibliotheque-clair.png" alt="Bibliothèque d'une reMarkable 2 dans Margo : dossiers, recherche, import, export et aperçu" width="860">
   </picture>
 </p>
 
@@ -20,27 +20,27 @@ Projet indépendant, ni affilié, ni approuvé, ni sponsorisé par reMarkable AS
 Captures réalisées avec des noms de dossiers et de livres d'exemple.</em></p>
 
 <p align="center">
-  <img src="captures/00-installeur.png" alt="Assistant d'installation de rM Desktop : écran de bienvenue" width="560">
+  <img src="captures/00-installeur.png" alt="Assistant d'installation de Margo : écran de bienvenue" width="560">
 </p>
 
 <p align="center"><em>L'assistant d'installation, sans droit administrateur.</em></p>
 
 <p align="center">
-  <img src="captures/01-chargement.png" alt="Écran de chargement de rM Desktop" width="330">
+  <img src="captures/01-chargement.png" alt="Écran de chargement de Margo" width="330">
   <img src="captures/02-detection.png" alt="La reMarkable 2 est détectée au démarrage" width="330">
 </p>
 
 <p align="center"><em>Au démarrage : chargement, puis détection de la tablette branchée en USB.</em></p>
 
 <p align="center">
-  <img src="captures/04-mode-veille.png" alt="Mode veille de rM Desktop : une tablette avec un petit cœur et le message « Je fais une petite pause »" width="760">
+  <img src="captures/04-mode-veille.png" alt="Mode veille de Margo : une tablette avec un petit cœur et le message « Je fais une petite pause »" width="760">
 </p>
 
 <p align="center"><em>Après une minute sans activité, l'application se met en veille avec un petit cœur qui respire.<br>
 Un mouvement de souris la réveille.</em></p>
 
 <p align="center">
-  <img src="captures/05-tablette-deconnectee.png" alt="rM Desktop quand la tablette est débranchée : « Tablette déconnectée, branche la reMarkable avec le câble USB-C »" width="760">
+  <img src="captures/05-tablette-deconnectee.png" alt="Margo quand la tablette est débranchée : « Tablette déconnectée, branche la reMarkable avec le câble USB-C »" width="760">
 </p>
 
 <p align="center"><em>Quand la tablette est débranchée, l'application le dit gentiment.<br>
@@ -66,7 +66,7 @@ La fenêtre se réactive toute seule dès que le câble est rebranché.</em></p>
 
 ## Installation sous Windows
 
-1. Téléchargez `install_remarkable.exe` dans la [dernière version](https://github.com/Gitnmercury/rm-desktop-download/releases/latest).
+1. Téléchargez `install_margo.exe` dans la [dernière version](https://github.com/Gitnmercury/Margo-apps/releases/latest).
 2. Lancez-le et suivez l'assistant. Aucun droit administrateur n'est demandé, rien n'est téléchargé.
 
 Windows peut afficher « Windows a protégé votre ordinateur » : l'installeur est signé avec un
@@ -74,24 +74,27 @@ certificat personnel de l'auteur, que Windows ne connaît pas encore. Cliquez su
 complémentaires », puis « Exécuter quand même ». Vous pouvez vérifier le fichier avec son
 empreinte SHA-256, indiquée dans chaque version.
 
-Désinstallation : menu Démarrer > rM Desktop > Désinstaller, ou Paramètres > Applications.
+Désinstallation : menu Démarrer > Margo > Désinstaller, ou Paramètres > Applications.
+
+Margo est le nouveau nom de rM Desktop : si l'ancienne version est installée, l'assistant la remplace,
+reprend vos réglages et supprime l'ancien dossier et les anciens raccourcis.
 
 ## Installation sous Linux (Ubuntu, Debian, Linux Mint…)
 
-1. Téléchargez `rm-desktop_<version>_all.deb` dans la [dernière version](https://github.com/Gitnmercury/rm-desktop-download/releases/latest).
+1. Téléchargez `margo_<version>_all.deb` dans la [dernière version](https://github.com/Gitnmercury/Margo-apps/releases/latest).
 2. Dans un terminal, depuis le dossier du téléchargement :
 
    ```
-   sudo apt install ./rm-desktop_*_all.deb
+   sudo apt install ./margo_*_all.deb
    ```
 
    `apt` installe aussi ce qui manque (Python, Tkinter, OpenSSH).
-3. Lancez « rM Desktop » depuis le menu des applications, ou `rm-desktop` dans un terminal.
+3. Lancez « Margo » depuis le menu des applications, ou `margo` dans un terminal.
 
 Fonctions en option : aperçu des pages PDF (`sudo apt install python3-fitz`), OCR
 (`tesseract-ocr tesseract-ocr-fra`), conversion Word (`libreoffice-writer`).
 
-Désinstallation : `sudo apt remove rm-desktop`.
+Désinstallation : `sudo apt remove margo`. Le paquet remplace l'ancien `rm-desktop` (ancien nom de Margo).
 
 ## Licence et confidentialité
 
@@ -104,7 +107,7 @@ forme lisible : la même licence s'y applique.
 
 ## Auteur et contact
 
-rM Desktop est créé et maintenu par Anthony BELKACEM, pour son entreprise individuelle
+Margo est créé et maintenu par Anthony BELKACEM, pour son entreprise individuelle
 Anthony BELKACEM EI.
 
 Pour les questions générales et le support : [apps@ohtna.fr](mailto:apps@ohtna.fr)

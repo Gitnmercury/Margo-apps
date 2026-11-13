@@ -28,8 +28,8 @@ S'il est mémorisé, il est chiffré :
 - sous Linux (version Python) : scellé avec l'identifiant de la machine, dans un fichier
   accessible à votre seul compte.
 
-Il est stocké dans `%APPDATA%\rM Desktop\settings.json` (application Windows) ou
-`~/.rm_manager.json` (version Python). « Aide › Oublier le mot de passe mémorisé » l'efface.
+Il est stocké dans `%APPDATA%\Margo\settings.json` (application Windows) ou
+`~/.margo.json` (version Python). « Aide › Oublier le mot de passe mémorisé » l'efface.
 
 ## Sauvegardes
 

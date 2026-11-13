@@ -1,6 +1,6 @@
 # Composants tiers
 
-rM Desktop appartient à Anthony BELKACEM EI (voir LICENSE.md). Il s'appuie sur les composants
+Margo appartient à Anthony BELKACEM EI (voir LICENSE.md). Il s'appuie sur les composants
 suivants, qui restent la propriété de leurs détenteurs et soumis à leurs propres licences.
 
 ## Application Windows (C# / WPF)
@@ -38,7 +38,7 @@ Les marques et icônes tierces restent la propriété de leurs détenteurs.
 
 ## Ressources graphiques
 
-Les éléments graphiques de rM Desktop n'ont pas tous la même origine ni le même statut. Cette
+Les éléments graphiques de Margo n'ont pas tous la même origine ni le même statut. Cette
 section les distingue. Elle informe, mais ne constitue ni une licence ni une autorisation de
 redistribuer un élément appartenant à un tiers.
 
@@ -51,7 +51,7 @@ redistribuer un élément appartenant à un tiers.
 | `src/no_rem.jpg` | Service d'IA de Google (Gemini) | Écran de démarrage et « Fiche tablette » : modèle non reconnu |
 | `src/usb-c-out-16-9.jpg` | Service d'IA de Google (Gemini) | Carte « Tablette déconnectée » |
 | `src/Sleepingmod16-9.jpg` | Service d'IA de Google (Gemini) | Mode veille de l'application |
-| `src/screensaver_desktop.png` | Service d'IA d'OpenAI | Image proposée pour l'écran de veille de la tablette |
+| `src/screensaver_margo.png` | Service d'IA d'OpenAI | Image proposée pour l'écran de veille de la tablette |
 
 Ces visuels ont été réalisés dans le cadre d'une prestation payée, à partir d'instructions rédigées
 par l'auteur, qui les a ensuite sélectionnés et/ou retouchés. L'outil n'est pas présenté comme
@@ -68,11 +68,11 @@ peuvent aussi contenir un filigrane invisible (SynthID), qui fait partie de l'im
 produits reMarkable, pour aider l'utilisateur à reconnaître son appareil. Les inscriptions et logos
 visibles ont été retirés par retouche. L'apparence des produits, les noms et les marques reMarkable
 appartiennent à reMarkable AS ; leur évocation ne signifie pas que reMarkable soutient ou approuve
-rM Desktop.
+Margo.
 
 ### Autres éléments graphiques
 
 | Élément | Origine |
 |---|---|
-| `src/rM_Desktop.png`, `src/rM_Desktop*.ico` (icône de l'application) | Créés ou modifiés pour le projet par l'auteur |
+| `src/Margo.png`, `src/Margo*.ico` (icône de l'application) | Créés ou modifiés pour le projet par l'auteur |
 | Icônes de l'interface | Polices Segoe Fluent Icons / MDL2 (Microsoft, fournies avec Windows, non livrées) ; DejaVu sous Linux |
