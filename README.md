@@ -96,6 +96,11 @@ Fonctions en option : aperçu des pages PDF (`sudo apt install python3-fitz`), O
 
 Désinstallation : `sudo apt remove margo`. Le paquet remplace l'ancien `rm-desktop` (ancien nom de Margo).
 
+## Noms
+
+Margo s'appelait rM Desktop jusqu'à la version 1.1.0. Les fichiers des anciennes versions (`install_remarkable.exe`,
+`rm-desktop_1.1.0_all.deb`) gardent leur ancien nom. L'installation de Margo reprend l'ancienne installation et vos réglages.
+
 ## Licence et confidentialité
 
 Libre d'utilisation, sous réserve, pour les particuliers à titre privé. Ce logiciel ne peut être vendu,
