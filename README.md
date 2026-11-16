@@ -20,10 +20,10 @@ Projet indépendant, ni affilié, ni approuvé, ni sponsorisé par reMarkable AS
 Captures réalisées avec des noms de dossiers et de livres d'exemple.</em></p>
 
 <p align="center">
-  <img src="captures/00-installeur.png" alt="Assistant d'installation de Margo : détection de l'installation existante, déclaration d'usage particulier" width="560">
+  <img src="captures/00-installeur.png" alt="Assistant d'installation de Margo : bienvenue et déclaration d'usage particulier" width="560">
 </p>
 
-<p align="center"><em>L'assistant d'installation, sans droit administrateur : il reconnaît une installation existante<br>
+<p align="center"><em>La première installation, sans droit administrateur. L'assistant reconnaît aussi une installation existante<br>
 (y compris l'ancienne rM Desktop) et propose de la mettre à jour.</em></p>
 
 <p align="center">
@@ -32,6 +32,12 @@ Captures réalisées avec des noms de dossiers et de livres d'exemple.</em></p>
 </p>
 
 <p align="center"><em>Pendant la copie, quelques astuces défilent ; puis Margo se lance.</em></p>
+
+<p align="center">
+  <img src="captures/08-demarrage.png" alt="Écran de démarrage de Margo : « Bienvenue sur Margo, reMarkable 2 détectée »" width="330">
+</p>
+
+<p align="center"><em>Au premier lancement : l'écran d'accueil, puis la détection de la tablette branchée en USB.</em></p>
 
 <p align="center">
   <img src="captures/06-guide-demarrage.png" alt="Guide de démarrage de Margo : brancher, connecter une fois, importer, sauvegarder" width="420">
