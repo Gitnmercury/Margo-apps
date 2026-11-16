@@ -20,17 +20,25 @@ Projet indépendant, ni affilié, ni approuvé, ni sponsorisé par reMarkable AS
 Captures réalisées avec des noms de dossiers et de livres d'exemple.</em></p>
 
 <p align="center">
-  <img src="captures/00-installeur.png" alt="Assistant d'installation de Margo : écran de bienvenue" width="560">
+  <img src="captures/00-installeur.png" alt="Assistant d'installation de Margo : détection de l'installation existante, déclaration d'usage particulier" width="560">
 </p>
 
-<p align="center"><em>L'assistant d'installation, sans droit administrateur.</em></p>
+<p align="center"><em>L'assistant d'installation, sans droit administrateur : il reconnaît une installation existante<br>
+(y compris l'ancienne rM Desktop) et propose de la mettre à jour.</em></p>
 
 <p align="center">
-  <img src="captures/01-chargement.png" alt="Écran de chargement de Margo" width="330">
-  <img src="captures/02-detection.png" alt="La reMarkable 2 est détectée au démarrage" width="330">
+  <img src="captures/01-installation.png" alt="Copie des fichiers avec une astuce" width="330">
+  <img src="captures/02-installation-terminee.png" alt="Installation terminée" width="330">
 </p>
 
-<p align="center"><em>Au démarrage : chargement, puis détection de la tablette branchée en USB.</em></p>
+<p align="center"><em>Pendant la copie, quelques astuces défilent ; puis Margo se lance.</em></p>
+
+<p align="center">
+  <img src="captures/06-guide-demarrage.png" alt="Guide de démarrage de Margo : brancher, connecter une fois, importer, sauvegarder" width="420">
+  <img src="captures/07-contactez-nous.png" alt="Aide, Contactez-nous : bogue, avis ou question, tout est facultatif" width="420">
+</p>
+
+<p align="center"><em>Le menu Aide : guide de démarrage et « Contactez-nous ». Rien ne part sans votre clic sur Envoyer.</em></p>
 
 <p align="center">
   <img src="captures/04-mode-veille.png" alt="Mode veille de Margo : une tablette avec un petit cœur et le message « Je fais une petite pause »" width="760">
@@ -72,6 +80,9 @@ La fenêtre se réactive toute seule dès que le câble est rebranché.</em></p>
 
 1. Téléchargez `install_margo.exe` dans la [dernière version](https://github.com/Gitnmercury/Margo-apps/releases/latest).
 2. Lancez-le et suivez l'assistant. Aucun droit administrateur n'est demandé, rien n'est téléchargé.
+   Il vous demande de confirmer l'usage particulier (gratuit, à titre privé) ; pour un usage professionnel,
+   le bouton « Licence entreprise » indique comment demander une licence.
+3. Au premier lancement, branchez la tablette en USB et saisissez son mot de passe (une seule fois).
 
 Windows peut afficher « Windows a protégé votre ordinateur » : l'installeur est signé avec un
 certificat personnel de l'auteur, que Windows ne connaît pas encore. Cliquez sur « Informations
