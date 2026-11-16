@@ -1,7 +1,7 @@
 # Margo
 
 Gérez la bibliothèque de votre tablette reMarkable 1 ou 2 depuis Windows ou Linux, par USB.
-Aucun compte, aucun cloud, aucune télémétrie : tout reste sur votre PC et votre tablette.
+Aucun compte, aucun cloud, aucune télémétrie : tout reste sur votre PC et votre tablette. Rien n'est envoyé à l'auteur, sauf le message que vous décidez d'envoyer vous-même depuis « Contactez-nous ».
 
 **[Télécharger la dernière version](https://github.com/Gitnmercury/Margo-apps/releases/latest)**
 
@@ -50,10 +50,13 @@ La fenêtre se réactive toute seule dès que le câble est rebranché.</em></p>
 
 - Parcourir la bibliothèque de la tablette, rechercher, prévisualiser.
 - Importer PDF, EPUB, Word et images (conversion en PDF et OCR à la demande), par glisser-déposer.
-- Exporter, renommer, épingler, supprimer, créer des dossiers.
+- Exporter, renommer, épingler, supprimer (corbeille), créer des dossiers ; sélection multiple.
+- Exporter les carnets manuscrits.
 - Lire les premières pages d'un livre EPUB, sans autre logiciel.
 - Ajouter ses propres modèles de page (agenda, quadrillage…) sur la tablette.
 - Sauvegarde chiffrée de la tablette.
+- Image de l'écran de veille de la tablette ; connexion par Wi-Fi possible (l'USB reste prioritaire).
+- Aide › Contactez-nous : bogue, avis ou question, préparés dans votre messagerie (Margo n'envoie rien elle-même).
 - Thèmes clair, sombre et automatique.
 
 ## Prérequis
@@ -63,6 +66,7 @@ La fenêtre se réactive toute seule dès que le câble est rebranché.</em></p>
 - Une reMarkable 1 ou 2, branchée en USB.
 - Le mot de passe de la tablette (Réglages > Aide > À propos > Copyrights et licences), saisi une
   seule fois au premier lancement.
+- Testé sur reMarkable 2, logiciel 3.28.0.172.
 
 ## Installation sous Windows
 
@@ -103,8 +107,9 @@ Margo s'appelait rM Desktop jusqu'à la version 1.1.0. Les fichiers des ancienne
 
 ## Licence et confidentialité
 
-Libre d'utilisation, sous réserve, pour les particuliers à titre privé. Ce logiciel ne peut être vendu,
-loué, intégré à une offre payante ni redistribué en dehors de cette page sans accord écrit.
+Libre d'utilisation, sous réserve, pour les particuliers à titre privé. Sans accord écrit, il ne peut être vendu,
+loué, intégré à une offre payante, redistribué en dehors de cette page, modifié pour être diffusé, ni utilisé à titre professionnel
+ou par une entreprise, une administration ou une association (licence entreprise : [licence@ohtna.fr](mailto:licence@ohtna.fr)).
 Voir [LICENSE.md](LICENSE.md), [PRIVACY.md](PRIVACY.md) et [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
 
 Le code source n'est pas publié. Le paquet Linux contient la version Python de l'application sous

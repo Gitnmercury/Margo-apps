@@ -51,7 +51,7 @@ de vos documents.
 Margo n'envoie rien elle-même : vous relisez le message et vous cliquez sur Envoyer, ou vous fermez la fenêtre. Tout est facultatif.
 
 Le message contient ce que vous avez écrit, vos étoiles et vos images si vous en joignez, votre adresse seulement si vous la saisissez (elle est alors aussi jointe, **chiffrée**, au code technique : seul l'auteur peut la lire avec sa clé privée, et la fenêtre vous le dit avant l'envoi), et des
-informations techniques sans donnée personnelle, sous la forme d'un code court (par exemple `MG1-S2R4C3E3T1U1D1M2N1-V1.1.14`) que la fenêtre
+informations techniques sans donnée personnelle, sous la forme d'un code court (par exemple `MG1-S2R4C3E3T1U1D1M2N1-V1.1.18`) que la fenêtre
 vous explique en clair avant l'envoi : système, mémoire, cœurs du processeur et largeur d'écran par tranches, thème, type de licence, type
 de document concerné (PDF, EPUB, carnet…), modèle de tablette et mode de connexion (USB ou Wi-Fi), version de Margo. Il ne contient jamais :
 nom de fichier ou de document, adresse de la tablette, mot de passe, clé, chemin de votre dossier personnel. Pour un bogue, un rapport lisible
