@@ -71,7 +71,7 @@ La fenêtre se réactive toute seule dès que le câble est rebranché.</em></p>
 - Sauvegarde chiffrée de la tablette.
 - Image de l'écran de veille de la tablette ; connexion par Wi-Fi possible (l'USB reste prioritaire).
 - Aide › Contactez-nous : bogue, avis ou question, préparés dans votre messagerie (Margo n'envoie rien elle-même).
-- Thèmes clair, sombre et automatique.
+- Quatre thèmes (clair, sombre, automatique, contraste élevé) et trois niveaux de couleurs ; barres animées ; aide qui se parcourt dans une carte, au clavier ou à la souris ; taille du texte réglable ; boutons lisibles par un lecteur d'écran (version Windows).
 
 ## Prérequis
 
