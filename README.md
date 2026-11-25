@@ -17,10 +17,10 @@ Projet indépendant, ni affilié, ni approuvé, ni sponsorisé par reMarkable AS
 </p>
 
 <p align="center"><em>La bibliothèque de la tablette, en thème clair ou sombre selon votre réglage GitHub.<br>
-Captures réalisées avec des noms de dossiers et de livres d'exemple.</em></p>
+Captures réalisées avec une bibliothèque entièrement fictive (mode démonstration, aucune tablette).</em></p>
 
 <p align="center">
-  <img src="captures/00-installeur.png" alt="Assistant d'installation de Margo : bienvenue et déclaration d'usage particulier" width="560">
+  <img src="captures/00-installeur.png" alt="Assistant d'installation de Margo : mise à jour proposée et déclaration d'usage particulier" width="560">
 </p>
 
 <p align="center"><em>La première installation, sans droit administrateur. L'assistant reconnaît aussi une installation existante<br>
@@ -41,13 +41,13 @@ Captures réalisées avec des noms de dossiers et de livres d'exemple.</em></p>
 
 <p align="center">
   <img src="captures/06-guide-demarrage.png" alt="Guide de démarrage de Margo : brancher, connecter une fois, importer, sauvegarder" width="420">
-  <img src="captures/07-contactez-nous.png" alt="Aide, Contactez-nous : bogue, avis ou question, tout est facultatif" width="420">
+  <img src="captures/07-contactez-nous.png" alt="Aide, Donner mon avis : étoiles et questions, tout est facultatif" width="420">
 </p>
 
 <p align="center"><em>Le menu Aide : guide de démarrage et « Contactez-nous ». Rien ne part sans votre clic sur Envoyer.</em></p>
 
 <p align="center">
-  <img src="captures/04-mode-veille.png" alt="Mode veille de Margo : une tablette avec un petit cœur et le message « Je fais une petite pause »" width="760">
+  <img src="captures/04-mode-veille.png" alt="Mode veille de Margo : une tablette avec un petit cœur et le message « Mode veille »" width="760">
 </p>
 
 <p align="center"><em>Après une minute sans activité, l'application se met en veille avec un petit cœur qui respire.<br>
